@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TodoApp</string>
+    <string name="facebook_app_id">173392763365385</string>
 </resources>
